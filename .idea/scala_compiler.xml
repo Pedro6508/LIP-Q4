@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="akka-zio-sandbox,lip-quest-4,lip-quest-4_310" />
+  </component>
+</project>
